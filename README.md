@@ -24,18 +24,18 @@ Worked on the Azure Billing team which managed customer Azure subscriptions and 
 
 ## Education
 BS – COMPUTER SCIENCE, THE UNIVERSITY OF TEXAS AT AUSTIN, 2013
-SKILLS
 
-- Microsoft Azure – 7 years
-- C#, 4.5 and .NET Core – 4 years
-- Python – 3 years
-- PySpark – 2 years
-- SQL – 3 years
-- Java – 2 years
-- Docker – 3 years	
-- ML Engineering – 3 years
-- Kubernetes – 1 year
-- Terraform – 1 year
+## Technologies
+- Microsoft Azure
+- C#, 4.5 and .NET Core
+- Python
+- PySpark
+- SQL
+- Java
+- Docker
+- ML Engineering
+- Kubernetes
+- Terraform
 - Python Flask Web Services
 - REST and GraphQL API design
 - Azure DevOps
