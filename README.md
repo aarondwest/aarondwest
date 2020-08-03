@@ -17,7 +17,7 @@ _KenSci is a Seattle-based startup building a machine learning platform for Heal
 #### AUGUST 2013 – JULY 2017
 SOFTWARE DEVELOPER IN TEST & SOFTWARE DEVELOPER II - [MICROSOFT](https://azure.microsoft.com/en-us/)
 
-Worked on the Azure Billing team which managed customer Azure subscriptions and Azure Marketplace team which managed Microsoft and Partner Azure service offerings.
+_Worked on the Azure Billing team which managed customer Azure subscriptions and Azure Marketplace team which managed Microsoft and Partner Azure service offerings._
 -	Implemented search for Azure Marketplace using Azure Search and Web services. Search results were localized to user language and content updates refreshed in < 10 minutes.
 -	Added CDN content caching to Azure Gallery API to improve performance of Azure Marketplace across globally deployed API endpoints.
 -	Managed, coordinated and tested deployments of internal environments. The environments were used for integration testing of cross-organizational services.
