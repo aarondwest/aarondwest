@@ -1,6 +1,18 @@
 # Aaron West
 
 ## Experience
+#### MARCH 2022 - PRESENT
+Senior Software Developer - [Oracle](https://www.oracle.com/index.html)
+
+
+#### SEPTEMBER 2020 - JUNE 2021
+Senior Software Engineer - [Shipwell](https://shipwell.com/)
+
+_Shipwell is a remote-forward startup building a transportation management tool using AWS._
+- Developed Django REST Framework APIs deployed to AWS ECS 
+- Authored CRON jobs to import carrier details and determine safety compliance status
+- Deployment manager and on-call rotations for backend API service
+- 
 #### JULY 2017 – PRESENT
 SENIOR SOFTWARE ENGINEER - [KENSCI](https://kensci.com)
 
